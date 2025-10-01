@@ -3,9 +3,9 @@
 ## Jacob's Tasks
 
 ### 1. Set up project structure
-- [ ] Download the Kaggle datasets (Steam and Metacritic)
-- [ ] Place them in a `data/` directory
-- [ ] Create a `src/` directory for code
+- [x] Download the Kaggle datasets (Steam and Metacritic)
+- [x] Place them in a `data/` directory
+- [x] Create a `src/` directory for code
 - [x] Add a `requirements.txt` file at the root of the repository
 
 ### 2. Environment setup
@@ -14,7 +14,7 @@
 
 ### 3. Data exploration
 - [ ] Create a Jupyter notebook
-- [ ] Load the Kaggle datasets with pandas
+- [x] Load the Kaggle datasets with pandas
 - [ ] Perform basic exploration (e.g., find min and max dates in the Steam dataset to define the time range for inflation data)
 
 ### 4. Additional data collection
