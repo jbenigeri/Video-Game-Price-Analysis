@@ -6,11 +6,11 @@
 - [ ] Download the Kaggle datasets (Steam and Metacritic)
 - [ ] Place them in a `data/` directory
 - [ ] Create a `src/` directory for code
-- [ ] Add a `requirements.txt` file at the root of the repository
+- [x] Add a `requirements.txt` file at the root of the repository
 
 ### 2. Environment setup
-- [ ] Create and activate a conda environment
-- [ ] Install dependencies from `requirements.txt`
+- [x] Create and activate a conda environment
+- [x] Install dependencies from `requirements.txt`
 
 ### 3. Data exploration
 - [ ] Create a Jupyter notebook
