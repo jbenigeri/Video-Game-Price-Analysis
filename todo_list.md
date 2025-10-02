@@ -19,9 +19,11 @@
 
 ### 4. Additional data collection
 - [ ] Gather console release dates within the identified time window
-- [ ] Gather inflation data for the same time window
+- [ ] Gather inflation data for the same time window (EU data)
 - [ ] Consider game tiers to avoid skewed inflation (cheap independent games should be eliminated)
 - [ ] Need dates for the console release dates (ask chat and then validate)
+- [ ] We know the reviews include non-eu reviews, and that's okay with us even if we use EU price data
+
 
 ### 5. Prepare and organize data
 - [ ] Write down the console release dates and inflation data
