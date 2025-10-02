@@ -13,13 +13,15 @@
 - [x] Install dependencies from `requirements.txt`
 
 ### 3. Data exploration
-- [ ] Create a Jupyter notebook
+- [x] Create a Jupyter notebook
 - [x] Load the Kaggle datasets with pandas
-- [ ] Perform basic exploration (e.g., find min and max dates in the Steam dataset to define the time range for inflation data)
+- [x] Perform basic exploration (e.g., find min and max dates in the Steam dataset to define the time range for inflation data)
 
 ### 4. Additional data collection
 - [ ] Gather console release dates within the identified time window
 - [ ] Gather inflation data for the same time window
+- [ ] Consider game tiers to avoid skewed inflation (cheap independent games should be eliminated)
+- [ ] Need dates for the console release dates (ask chat and then validate)
 
 ### 5. Prepare and organize data
 - [ ] Write down the console release dates and inflation data
