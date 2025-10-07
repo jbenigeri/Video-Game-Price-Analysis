@@ -23,6 +23,7 @@
 - [ ] Consider game tiers to avoid skewed inflation (cheap independent games should be eliminated)
 - [x] Need dates for the console release dates (ask chat and then validate)
 - [x] We know the reviews include non-eu reviews, and that's okay with us even if we use EU price data
+- [ ] Before a code block, what are you doing and after say what you learned if anything
 
 
 ### 5. Prepare and organize data
