@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 .DS_Store
 data/dataset_metacritic_scraper_2025-02-15.csv
+~$*
