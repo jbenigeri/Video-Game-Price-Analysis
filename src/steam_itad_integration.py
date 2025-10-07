@@ -47,11 +47,12 @@ class SteamITADIntegration:
             return data[0] if data else None
         return None
     
-    def get_game_prices(self, game_id):
+    def get_game_prices(self, game_id, country="DE"):
         """Get current Steam prices for a game.
         
         Args:
             game_id (str): ITAD game ID
+            country (str): Country code (default: 'DE')
             
         Returns:
             dict: Current price data or None if not found
@@ -59,6 +60,7 @@ class SteamITADIntegration:
         url = f"{self.base_url}/games/prices/v3"
         params = {
             'key': self.api_key,
+            'country': country,
             'shops': '61'  # Steam ID
         }
         payload = [game_id]
@@ -70,11 +72,12 @@ class SteamITADIntegration:
             return data[0] if data else None
         return None
     
-    def get_game_overview(self, game_id):
+    def get_game_overview(self, game_id, country="DE"):
         """Get Steam price overview for a game.
         
         Args:
             game_id (str): ITAD game ID
+            country (str): Country code (default: 'DE')
             
         Returns:
             dict: Price overview data or None if not found
@@ -82,6 +85,7 @@ class SteamITADIntegration:
         url = f"{self.base_url}/games/overview/v2"
         params = {
             'key': self.api_key,
+            'country': country,
             'shops': '61'  # Steam ID
         }
         payload = [game_id]
@@ -93,12 +97,12 @@ class SteamITADIntegration:
             return data['prices'][0] if data.get('prices') else None
         return None
     
-    def get_price_history(self, game_id, country="US", since=None):
+    def get_price_history(self, game_id, country="DE", since=None):
         """Get Steam price history for a game.
         
         Args:
             game_id (str): ITAD game ID
-            country (str): Country code (default: 'US')
+            country (str): Country code (default: 'DE')
             since (str): Start date in ISO format (default: None for full history)
             
         Returns:
@@ -120,13 +124,13 @@ class SteamITADIntegration:
             return response.json()
         return []
     
-    def get_price_history_since_date(self, game_id, start_date, country="US"):
+    def get_price_history_since_date(self, game_id, start_date, country="DE"):
         """Get Steam price history since a specific date.
         
         Args:
             game_id (str): ITAD game ID
             start_date (str): Start date in ISO format (e.g., '2020-01-01T00:00:00')
-            country (str): Country code (default: 'US')
+            country (str): Country code (default: 'DE')
             
         Returns:
             list: Price history records since the specified date
