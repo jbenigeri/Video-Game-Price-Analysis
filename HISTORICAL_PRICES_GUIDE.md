@@ -35,7 +35,7 @@ steam_sales.csv → Game Names → ITAD API → Historical Prices → steam_hist
 ### Debug Mode (Testing)
 ```bash
 # Activate conda environment
-conda activate jacob
+conda activate games
 
 # Run with first 5 games (debug mode)
 python src/create_historical_prices.py --debug
@@ -76,26 +76,29 @@ The script will:
 
 ### Debug Mode Output:
 ```
-🐛 DEBUG MODE: Processing first 5 games only
+DEBUG MODE: Processing first 5 games
 Processing 5 games...
-[  1/  5] Processing: PEAK
-    Found game ID: abc123...
-    Found 12 price records
-    Successfully processed: PEAK
+[  1/  5] PEAK
+[  2/  5] Cyberpunk 2077
 ...
+Progress: 5/5 | Success: 5 | Errors: 0 | Records: 45
+Created: data/steam_historical_prices_test.csv
+SUCCESS: data/steam_historical_prices_test.csv
 ```
 
 ### Full Mode Output:
 ```
-🚀 FULL MODE: Processing all games
+FULL MODE: Processing all games
 Processing 2545 games...
-[  1/2545] Processing: PEAK
+[  1/2545] PEAK
+[  2/2545] Cyberpunk 2077
 ...
+Progress: 10/2545 | Success: 8 | Errors: 2 | Records: 234
 ```
 
 ## ⚠️ Important Notes
 
-- **Rate Limiting**: 1 second delay between API calls
+- **Rate Limiting**: 0.25 second delay between API calls (4 games/second)
 - **Error Handling**: Games not found in ITAD are logged and skipped
 - **Testing Mode**: Default processes only first 5 games
 - **API Key**: Make sure your ITAD API key is valid
