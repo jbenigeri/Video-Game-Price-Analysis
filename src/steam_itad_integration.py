@@ -181,6 +181,29 @@ class SteamITADIntegration:
             data = response.json()
             return data.get('prices', [])
         return []
+    
+    def get_game_info(self, game_id):
+        """Get detailed game information including release date.
+        
+        Args:
+            game_id (str): ITAD game ID
+            
+        Returns:
+            dict: Game information including release date or None if not found
+        """
+        url = f"{self.base_url}/games/info/v2"
+        params = {
+            'key': self.api_key,
+            'id': game_id  # This should work as a single ID
+        }
+        
+        response = requests.get(url, params=params)
+        if response.status_code == 200:
+            data = response.json()
+            # The API returns the game data directly, not wrapped in a 'data' object
+            if data and data.get('id') == game_id:
+                return data
+        return None
 
 
 # Example usage functions

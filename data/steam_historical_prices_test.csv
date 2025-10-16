@@ -1,27 +1,23 @@
-Game Name,ITAD Game ID,Date,Price (€),Original Price (€),Discount%,Currency,Shop Name,Shop ID
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-07-06 22:50:47+02:00,20.99,59.99,65,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-07-10 19:48:15+02:00,59.99,59.99,0,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-08-04 19:19:20+02:00,20.99,59.99,65,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-08-17 19:15:30+02:00,59.99,59.99,0,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-09-18 19:29:58+02:00,20.99,59.99,65,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-09-28 19:15:41+02:00,59.99,59.99,0,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-09-29 22:51:54+02:00,20.99,59.99,65,EUR,Steam,61
-Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-10-06 19:41:22+02:00,59.99,59.99,0,EUR,Steam,61
-Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-07-06 22:50:51+02:00,34.99,69.99,50,EUR,Steam,61
-Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-07-10 19:48:04+02:00,69.99,69.99,0,EUR,Steam,61
-Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-08-11 19:21:29+02:00,27.99,69.99,60,EUR,Steam,61
-Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-08-24 19:16:13+02:00,69.99,69.99,0,EUR,Steam,61
-Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-09-23 19:15:59+02:00,27.99,69.99,60,EUR,Steam,61
-Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-10-06 19:48:24+02:00,69.99,69.99,0,EUR,Steam,61
-Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-07-06 22:50:49+02:00,23.99,39.99,40,EUR,Steam,61
-Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-07-10 19:33:06+02:00,39.99,39.99,0,EUR,Steam,61
-Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-08-07 19:16:32+02:00,19.99,39.99,50,EUR,Steam,61
-Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-08-14 19:17:46+02:00,39.99,39.99,0,EUR,Steam,61
-Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-09-29 21:56:53+02:00,19.99,39.99,50,EUR,Steam,61
-Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-10-06 19:18:57+02:00,39.99,39.99,0,EUR,Steam,61
-Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-07-06 22:50:53+02:00,59.49,69.99,15,EUR,Steam,61
-Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-07-10 19:53:39+02:00,69.99,69.99,0,EUR,Steam,61
-Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-08-11 19:24:21+02:00,48.99,69.99,30,EUR,Steam,61
-Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-08-25 19:27:57+02:00,69.99,69.99,0,EUR,Steam,61
-Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-09-25 19:19:09+02:00,48.99,69.99,30,EUR,Steam,61
-Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-10-06 20:35:39+02:00,69.99,69.99,0,EUR,Steam,61
+Game Name,ITAD Game ID,Date,Price (€),Original Price (€),Discount%,Currency,Shop Name,Shop ID,ITAD Release Date,ITAD Publishers,ITAD Developers,ITAD Tags,ITAD Steam Rating,ITAD Metacritic Rating,ITAD Players Recent,ITAD Players Peak
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-07-15 22:08:18+02:00,59.99,59.99,0,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-08-04 19:19:20+02:00,20.99,59.99,65,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-08-17 19:15:30+02:00,59.99,59.99,0,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-09-18 19:29:58+02:00,20.99,59.99,65,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-09-28 19:15:41+02:00,59.99,59.99,0,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-09-29 22:51:54+02:00,20.99,59.99,65,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Cyberpunk 2077,018d937f-2997-7131-b8b9-7c8af4825fa8,2025-10-06 19:41:22+02:00,59.99,59.99,0,EUR,Steam,61,2019-07-15,CD PROJEKT RED,CD PROJEKT RED,"Cyberpunk, Open World, Nudity, RPG, Singleplayer",86,86.0,30433,1051810
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-07-15 22:08:22+02:00,69.99,69.99,0,EUR,Steam,61,2020-08-18,"Xbox Game Studios, Xbox, Microsoft Xbox ESD (USA)",Asobo Studio,"Simulation, Flight, Open World, Realistic, Multiplayer",78,,4625,61538
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-08-11 19:21:29+02:00,27.99,69.99,60,EUR,Steam,61,2020-08-18,"Xbox Game Studios, Xbox, Microsoft Xbox ESD (USA)",Asobo Studio,"Simulation, Flight, Open World, Realistic, Multiplayer",78,,4625,61538
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-08-24 19:16:13+02:00,69.99,69.99,0,EUR,Steam,61,2020-08-18,"Xbox Game Studios, Xbox, Microsoft Xbox ESD (USA)",Asobo Studio,"Simulation, Flight, Open World, Realistic, Multiplayer",78,,4625,61538
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-09-23 19:15:59+02:00,27.99,69.99,60,EUR,Steam,61,2020-08-18,"Xbox Game Studios, Xbox, Microsoft Xbox ESD (USA)",Asobo Studio,"Simulation, Flight, Open World, Realistic, Multiplayer",78,,4625,61538
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,01971f4e-0d26-704d-a9cc-5f2f61df3854,2025-10-06 19:48:24+02:00,69.99,69.99,0,EUR,Steam,61,2020-08-18,"Xbox Game Studios, Xbox, Microsoft Xbox ESD (USA)",Asobo Studio,"Simulation, Flight, Open World, Realistic, Multiplayer",78,,4625,61538
+Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-07-15 22:08:20+02:00,39.99,39.99,0,EUR,Steam,61,2018-02-08,Facepunch Studios,Facepunch Studios,"Survival, Crafting, Multiplayer, Open World, Open World Survival Craft",87,69.0,124214,262284
+Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-08-07 19:16:32+02:00,19.99,39.99,50,EUR,Steam,61,2018-02-08,Facepunch Studios,Facepunch Studios,"Survival, Crafting, Multiplayer, Open World, Open World Survival Craft",87,69.0,124214,262284
+Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-08-14 19:17:46+02:00,39.99,39.99,0,EUR,Steam,61,2018-02-08,Facepunch Studios,Facepunch Studios,"Survival, Crafting, Multiplayer, Open World, Open World Survival Craft",87,69.0,124214,262284
+Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-09-29 21:56:53+02:00,19.99,39.99,50,EUR,Steam,61,2018-02-08,Facepunch Studios,Facepunch Studios,"Survival, Crafting, Multiplayer, Open World, Open World Survival Craft",87,69.0,124214,262284
+Rust,018d937f-060f-705e-b364-8c5bba4d62f6,2025-10-06 19:18:57+02:00,39.99,39.99,0,EUR,Steam,61,2018-02-08,Facepunch Studios,Facepunch Studios,"Survival, Crafting, Multiplayer, Open World, Open World Survival Craft",87,69.0,124214,262284
+Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-07-15 22:08:23+02:00,69.99,69.99,0,EUR,Steam,61,2025-01-27,"2K, 2K Games, TAKE-TWO INTERACTIVE, Firaxis Games","Firaxis Games, Firaxis","Grand Strategy, Historical, 4X, Military, Simulation",47,79.0,7469,84558
+Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-08-11 19:24:21+02:00,48.99,69.99,30,EUR,Steam,61,2025-01-27,"2K, 2K Games, TAKE-TWO INTERACTIVE, Firaxis Games","Firaxis Games, Firaxis","Grand Strategy, Historical, 4X, Military, Simulation",47,79.0,7469,84558
+Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-08-25 19:27:57+02:00,69.99,69.99,0,EUR,Steam,61,2025-01-27,"2K, 2K Games, TAKE-TWO INTERACTIVE, Firaxis Games","Firaxis Games, Firaxis","Grand Strategy, Historical, 4X, Military, Simulation",47,79.0,7469,84558
+Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-09-25 19:19:09+02:00,48.99,69.99,30,EUR,Steam,61,2025-01-27,"2K, 2K Games, TAKE-TWO INTERACTIVE, Firaxis Games","Firaxis Games, Firaxis","Grand Strategy, Historical, 4X, Military, Simulation",47,79.0,7469,84558
+Sid Meier's Civilization VII,018ff49c-05f6-73d1-9ad6-0ebf81905107,2025-10-06 20:35:39+02:00,69.99,69.99,0,EUR,Steam,61,2025-01-27,"2K, 2K Games, TAKE-TWO INTERACTIVE, Firaxis Games","Firaxis Games, Firaxis","Grand Strategy, Historical, 4X, Military, Simulation",47,79.0,7469,84558
