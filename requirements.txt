@@ -5,3 +5,4 @@ jupyterlab
 matplotlib
 seaborn
 numpy
+scipy
