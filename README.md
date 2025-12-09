@@ -2,8 +2,6 @@
 
 A data science project analyzing Steam video game pricing patterns, with a focus on the impact of inflation and COVID-19 on game prices in the European market (2015-2024).
 
-📖 **[View the Interactive Analysis](https://jbenigeri.github.io/Video-Game-Price-Analysis/)**
-
 ## Project Goal
 
 This project investigates whether video game prices have kept pace with inflation and how the COVID-19 pandemic affected pricing strategies on Steam. By adjusting historical prices to 2024 euros using the Harmonised Index of Consumer Prices (HICP), we compare "real" prices across years to understand market trends and price tier shifts.
