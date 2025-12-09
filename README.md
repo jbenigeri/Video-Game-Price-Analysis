@@ -29,6 +29,9 @@ Video-Game-Price-Analysis/
 ├── src/                      # Notebooks and scripts
 │   ├── nb1__exploratory_data_analysis.ipynb
 │   ├── nb2__prices_analysis.ipynb
+│   ├── images/               # Generated plots/figures
+│   │   ├── nb1/              # Figures from notebook 1
+│   │   └── nb2/              # Figures from notebook 2
 │   └── cleanup/              # Older/backup files
 └── older_plans/              # Older planning documents
 ```
