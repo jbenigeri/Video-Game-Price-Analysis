@@ -2,6 +2,8 @@
 
 A data science project analyzing Steam video game pricing patterns, with a focus on the impact of inflation and COVID-19 on game prices in the European market (2015-2024).
 
+📖 **[View the Interactive Analysis](https://jbenigeri.github.io/Video-Game-Price-Analysis/)**
+
 ## Project Goal
 
 This project investigates whether video game prices have kept pace with inflation and how the COVID-19 pandemic affected pricing strategies on Steam. By adjusting historical prices to 2024 euros using the Harmonised Index of Consumer Prices (HICP), we compare "real" prices across years to understand market trends and price tier shifts.
@@ -40,7 +42,7 @@ Video-Game-Price-Analysis/
 
 ## Notebooks
 
-### `nb1__exploratory_data_analysis.ipynb`
+### [1. Exploratory Data Analysis](https://jbenigeri.github.io/Video-Game-Price-Analysis/nb1-exploratory-data-analysis/)
 
 **Purpose:** Initial exploration of the Steam sales dataset.
 
@@ -61,7 +63,7 @@ Video-Game-Price-Analysis/
 
 ---
 
-### `nb2__prices_analysis.ipynb`
+### [2. Price & Inflation Analysis](https://jbenigeri.github.io/Video-Game-Price-Analysis/nb2-prices-analysis/)
 
 **Purpose:** In-depth analysis of video game pricing with inflation adjustment.
 
@@ -138,9 +140,9 @@ Video-Game-Price-Analysis/
    ```bash
    jupyter notebook
    ```
-   Then open the notebooks in order:
-   - `src/nb1__exploratory_data_analysis.ipynb` - Data exploration
-   - `src/nb2__prices_analysis.ipynb` - Inflation-adjusted analysis
+   Open the notebooks in order:
+   - [1. Exploratory Data Analysis](https://jbenigeri.github.io/Video-Game-Price-Analysis/nb1-exploratory-data-analysis/) (`src/nb1__exploratory_data_analysis.ipynb`)
+   - [2. Price & Inflation Analysis](https://jbenigeri.github.io/Video-Game-Price-Analysis/nb2-prices-analysis/) (`src/nb2__prices_analysis.ipynb`)
 
 ---
 
