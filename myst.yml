@@ -1,0 +1,29 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 5d23f48c-c4d3-4f07-9929-a845017dd2ee
+  title: Video Game Price Analysis
+  description: Analyzing Steam game pricing patterns, inflation impact, and COVID-19 effects on the European market (2015-2024)
+  keywords:
+    - video games
+    - pricing analysis
+    - inflation
+    - COVID-19
+    - Steam
+    - data science
+  authors:
+    - name: Jacob Benigeri
+      github: jbenigeri
+  github: https://github.com/jbenigeri/Video-Game-Price-Analysis
+  toc:
+    - file: README.md
+    - title: Analysis Notebooks
+      children:
+        - file: src/nb1__exploratory_data_analysis.ipynb
+          title: "1. Exploratory Data Analysis"
+        - file: src/nb2__prices_analysis.ipynb
+          title: "2. Price & Inflation Analysis"
+site:
+  template: book-theme
+  options:
+    hide_toc: false
