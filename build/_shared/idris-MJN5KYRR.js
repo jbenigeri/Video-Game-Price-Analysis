@@ -1,1 +1,1 @@
-import{a}from"/Video-Game-Price-Analysis//build/_shared/chunk-BJB4CASA.js";import"/Video-Game-Price-Analysis//build/_shared/chunk-VCINEGR4.js";import"/Video-Game-Price-Analysis//build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/Video-Game-Price-Analysis/build/_shared/chunk-BJB4CASA.js";import"/Video-Game-Price-Analysis/build/_shared/chunk-VCINEGR4.js";import"/Video-Game-Price-Analysis/build/_shared/chunk-OZE3FFNP.js";export default a();
