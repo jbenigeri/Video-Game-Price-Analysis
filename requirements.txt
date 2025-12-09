@@ -7,3 +7,5 @@ seaborn
 numpy
 scipy
 statsmodels
+jupyter-book
+ghp-import
